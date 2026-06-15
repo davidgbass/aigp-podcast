@@ -11,7 +11,7 @@
       <itunes:name>David Gélinas</itunes:name>
       <itunes:email>gelinas.audio@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://github.com/davidgbass/aigp-podcast/releases/download/media/cover.jpg"/>
+    <itunes:image href="https://davidgbass.github.io/aigp-podcast/media/cover.jpg"/>
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
@@ -21,7 +21,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:title>Chapitre 1 — AI and AI Governance</itunes:title>
       <description>Audio Overview NotebookLM — Chapitre 1 : AI and AI Governance.</description>
-      <enclosure url="https://github.com/davidgbass/aigp-podcast/releases/download/media/AIGP_ch01.m4a" length="84007141" type="audio/x-m4a"/>
+      <enclosure url="https://davidgbass.github.io/aigp-podcast/media/AIGP_ch01.m4a" length="84007141" type="audio/x-m4a"/>
       <guid isPermaLink="false">aigp-ch01</guid>
       <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
       <itunes:duration>43:31</itunes:duration>
@@ -31,7 +31,7 @@
       <itunes:episodeType>bonus</itunes:episodeType>
       <itunes:title>Épisode 1.5 — Définitions de l'IA et taxonomie</itunes:title>
       <description>Récap ciblé : la définition de l'IA et ses catégories — par capacité (narrow/AGI/ASI), par fonctionnalité (réactif → self-aware) et par techniques/entraînement (ML, deep learning, NLP, supervised/unsupervised/reinforcement/zero-shot) — d'après le chapitre 1.</description>
-      <enclosure url="https://github.com/davidgbass/aigp-podcast/releases/download/media/AIGP_ch01b.m4a" length="45887861" type="audio/x-m4a"/>
+      <enclosure url="https://davidgbass.github.io/aigp-podcast/media/AIGP_ch01b.m4a" length="45887861" type="audio/x-m4a"/>
       <guid isPermaLink="false">aigp-ch01b</guid>
       <pubDate>Mon, 01 Jun 2026 14:00:00 +0000</pubDate>
       <itunes:duration>23:46</itunes:duration>
@@ -42,7 +42,7 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:title>Chapitre 2 — Organizational Readiness</itunes:title>
       <description>Audio Overview NotebookLM — Chapitre 2 : Organizational Readiness.</description>
-      <enclosure url="https://github.com/davidgbass/aigp-podcast/releases/download/media/AIGP_ch02.m4a" length="44858438" type="audio/x-m4a"/>
+      <enclosure url="https://davidgbass.github.io/aigp-podcast/media/AIGP_ch02.m4a" length="44858438" type="audio/x-m4a"/>
       <guid isPermaLink="false">aigp-ch02</guid>
       <pubDate>Tue, 02 Jun 2026 08:00:00 +0000</pubDate>
       <itunes:duration>23:14</itunes:duration>
