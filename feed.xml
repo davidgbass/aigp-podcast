@@ -26,5 +26,16 @@
       <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
       <itunes:duration>43:31</itunes:duration>
     </item>
+    <item>
+      <title>Chapitre 2 — Organizational Readiness</title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Organizational Readiness</itunes:title>
+      <description>Audio Overview NotebookLM — Chapitre 2 : Organizational Readiness.</description>
+      <enclosure url="https://github.com/davidgbass/aigp-podcast/releases/download/media/AIGP_ch02.m4a" length="44874434" type="audio/x-m4a"/>
+      <guid isPermaLink="false">aigp-ch02</guid>
+      <pubDate>Tue, 02 Jun 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>23:14</itunes:duration>
+    </item>
   </channel>
 </rss>
