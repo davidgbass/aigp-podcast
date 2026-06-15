@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AIGP — Étude (audio NotebookLM)</title>
-    <link>https://REMPLACE-MOI/aigp-podcast/feed.xml</link>
+    <link>https://davidgbass.github.io/aigp-podcast/feed.xml</link>
     <language>en-us</language>
     <itunes:author>David Gélinas</itunes:author>
     <description>Audio Overviews NotebookLM des 12 chapitres du IAPP AIGP Study Guide, pour réviser la certification AI Governance Professional en voiture. Usage personnel d'étude.</description>
